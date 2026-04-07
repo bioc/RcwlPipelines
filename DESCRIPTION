@@ -26,3 +26,4 @@ RoxygenNote: 7.2.3
 biocViews: Software, WorkflowStep, Alignment, Preprocessing, QualityControl,
 	   DNASeq, RNASeq, DataImport, ImmunoOncology
 SystemRequirements: nodejs
+Config/Bioconductor/UnsupportedPlatforms: windows
